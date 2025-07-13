@@ -1,7 +1,4 @@
-# insurance-fraud-detection-ai
-Enterprise AI-powered fraud detection system for insurance claims
 # Insurance Fraud Detection AI Platform
-
 ## 🚀 Enterprise AI-Powered Real-Time Fraud Detection System
 
 A comprehensive machine learning platform that detects insurance fraud in real-time with 94%+ accuracy, reducing investigation time from weeks to seconds and preventing millions in fraudulent payouts.
